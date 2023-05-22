@@ -1,2 +1,2 @@
 # Database Project
-A console based interface for modifying a database using Java.
+A console based interface for modifying the community_rentals database using Java.
