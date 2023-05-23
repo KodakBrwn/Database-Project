@@ -94,7 +94,7 @@ public class UI {
     	} catch (SQLException e) {
             System.out.println(e.getMessage());
         }
-	}
+     }
 	public static void sqlSearch(Connection conn, String sql, String toSearch){
         try {
         	Statement stmt = conn.createStatement();
